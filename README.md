@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **building scalable web applications.**
 
+- 📄 Know about my experiences **https://samchristopher.netlify.app/**
+
 - 📫 How to reach me **samchrstopher@gmail.com**
 
 - ⚡ Fun fact **JavaScript was created in just 10 days by Brendan Eich in 1995.**
