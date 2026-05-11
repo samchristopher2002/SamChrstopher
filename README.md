@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sam Christopher</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer
+Software Engineer | React • NestJS • Python
 </h3>
 
 <p align="center">
-Building scalable and secure web applications using React, NestJS & Python
+Full Stack Development • Backend Engineering • System Design
 </p>
 
 ---
