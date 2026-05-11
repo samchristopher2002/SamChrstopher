@@ -5,7 +5,7 @@ Software Engineer | React • NestJS • Python
 </h3>
 
 <p align="center">
-Full Stack Development • Backend Engineering • System Design
+Focused on clean architecture, scalable backend systems and modern web development
 </p>
 
 ---
