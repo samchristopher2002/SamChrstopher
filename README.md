@@ -24,7 +24,7 @@ Focused on clean architecture, scalable backend systems and modern web developme
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,ts,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" />
 </p>
 
 ### Backend
@@ -32,9 +32,14 @@ Focused on clean architecture, scalable backend systems and modern web developme
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" />
 </p>
 
-### Database & Tools
+### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
