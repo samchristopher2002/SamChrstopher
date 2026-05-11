@@ -1,42 +1,143 @@
 <h1 align="center">Hi 👋, I'm Sam Christopher</h1>
-<h3 align="center">A Passionate Full Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samchrstopher&label=Profile%20views&color=0e75b6&style=flat" alt="samchrstopher" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">
+Software Engineer | Full Stack Developer
+</h3>
 
-- 🔭 I’m currently working on **Java and React.js web application.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **Open-source projects in Java and React.**
-
-- 🤝 I’m looking for help with **advanced Java and React.js topics.**
-
-- 💬 Ask me about **building scalable web applications.**
-
-- 📄 Know about my experiences **https://samchristopher.netlify.app/**
-
-- 📫 How to reach me **samchrstopher@gmail.com**
-
-- ⚡ Fun fact **JavaScript was created in just 10 days by Brendan Eich in 1995.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/samchrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samchrstopher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sam-chrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-chrstopher" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samchrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samchrstopher" height="30" width="40" /></a>
-<a href="https://codesandbox.com/samchrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samchrstopher" height="30" width="40" /></a>
-<a href="https://instagram.com/samchrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samchrstopher" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samchrstopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samchrstopher" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samchris2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samchris2002" height="30" width="40" /></a>
+<p align="center">
+Building scalable and secure web applications using React, NestJS & Python
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samchrstopher&show_icons=true&locale=en&layout=compact" alt="samchrstopher" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samchrstopher&show_icons=true&locale=en" alt="samchrstopher" /></p>
+- 💼 Software Engineer with 1+ year of experience
+- 🔭 Building scalable full stack applications
+- 🌱 Currently learning Data Structures & Algorithms
+- ⚡ Interested in Backend Engineering & System Design
+- 🎯 Focused on clean architecture and maintainable systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samchrstopher&" alt="samchrstopher" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,ts,tailwind,vite" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,postman" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 📄 Offer Letter Generator
+
+Full-stack automated offer letter generation platform for HR operations and employee onboarding.
+
+### Highlights
+- Automated PDF offer letter generation
+- Excel bulk upload support
+- JWT Authentication & secure APIs
+- Email integration & PostgreSQL database
+- Built using modular FastAPI backend architecture
+
+### Tech Stack
+React • TypeScript • FastAPI • PostgreSQL • SQLAlchemy
+
+### 🔗 Repository:
+Add your repository link here
+
+---
+
+## 🎯 Smart Recruitment System
+
+AI-powered recruitment platform with online assessments and real-time proctoring.
+
+### Highlights
+- AI-based online proctoring system
+- Real-time monitoring & violation tracking
+- Recruiter dashboard & hiring pipeline management
+- Cloudinary integration for image storage
+- Modular backend architecture using NestJS & FastAPI
+
+### Tech Stack
+React • NestJS • FastAPI • PostgreSQL • TypeORM
+
+### 🔗 Repository:
+Add your repository link here
+
+---
+
+## 🛒 SwiftKart – E-Commerce Platform
+
+Scalable e-commerce platform following Microservices Architecture and MVC design pattern.
+
+### Highlights
+- Product & category management system
+- Secure PayPal payment integration
+- JWT Authentication with role-based access
+- Admin dashboard for users & transactions
+- Responsive UI with Framer Motion animations
+
+### Tech Stack
+React • Vue.js • NestJS • MongoDB • Tailwind CSS
+
+### 🔗 Repository:
+Add your repository link here
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samchrstopher&show_icons=true&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samchrstopher&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchrstopher&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sam-chrstopher" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/samchrstopher" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="mailto:samchrstopher@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://leetcode.com/samchris2002" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Building projects, improving every day, and growing as an engineer."</i>
+</p>
