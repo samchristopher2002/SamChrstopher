@@ -94,9 +94,9 @@ Scalable e-commerce platform following Microservices Architecture and MVC design
 React • Vue.js • NestJS • MongoDB • Tailwind CSS
 
 ### 🔗 Repository:
-https://github.com/samchristopher2002/ecommerce-react
-https://github.com/samchristopher2002/ecommerce-vue
-https://github.com/samchristopher2002/ecommerce-nest-js
+- [Frontend (React)](https://github.com/samchristopher2002/ecommerce-react)
+- [Admin Dashboard (Vue.js)](https://github.com/samchristopher2002/ecommerce-vue)
+- [Backend (NestJS)](https://github.com/samchristopher2002/ecommerce-nest-js)
 
 ---
 
