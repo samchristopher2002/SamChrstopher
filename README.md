@@ -103,15 +103,15 @@ React • Vue.js • NestJS • MongoDB • Tailwind CSS
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samchrstopher&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samchristopher2002&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samchrstopher&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samchristopher2002&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchrstopher&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchristopher2002&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
