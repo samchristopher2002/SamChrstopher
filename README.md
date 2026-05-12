@@ -100,19 +100,13 @@ React • Vue.js • NestJS • MongoDB • Tailwind CSS
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samchristopher2002&show_icons=true&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samchristopher2002&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchristopher2002&layout=compact&theme=tokyonight" height="180"/>
-</p>
+- Data Structures & Algorithms
+- Advanced Backend Development
+- System Design Fundamentals
+- Django & FastAPI
+- Scalable Architecture Patterns
 
 ---
 
@@ -141,5 +135,5 @@ React • Vue.js • NestJS • MongoDB • Tailwind CSS
 ---
 
 <p align="center">
-  <i>"Building projects, improving every day, and growing as an engineer."</i>
+  ⚙️ Designed with logic • 💻 Built with code • 🚀 Driven by curiosity
 </p>
