@@ -24,22 +24,17 @@ Focused on clean architecture, scalable backend systems and modern web developme
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
 </p>
 
-### Database
+### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,postman" />
 </p>
 
 ---
