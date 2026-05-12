@@ -56,7 +56,7 @@ Full-stack automated offer letter generation platform for HR operations and empl
 React • TypeScript • FastAPI • PostgreSQL • SQLAlchemy
 
 ### 🔗 Repository:
-Add your repository link here
+https://github.com/samchristopher2002/offer-letter-generator
 
 ---
 
@@ -75,7 +75,7 @@ AI-powered recruitment platform with online assessments and real-time proctoring
 React • NestJS • FastAPI • PostgreSQL • TypeORM
 
 ### 🔗 Repository:
-Add your repository link here
+https://github.com/samchristopher2002/smart-recruitment-system
 
 ---
 
@@ -94,7 +94,9 @@ Scalable e-commerce platform following Microservices Architecture and MVC design
 React • Vue.js • NestJS • MongoDB • Tailwind CSS
 
 ### 🔗 Repository:
-Add your repository link here
+https://github.com/samchristopher2002/ecommerce-react
+https://github.com/samchristopher2002/ecommerce-vue
+https://github.com/samchristopher2002/ecommerce-nest-js
 
 ---
 
